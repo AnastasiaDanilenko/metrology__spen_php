@@ -1,0 +1,12 @@
+function setPager($pager)
+  {
+    $this -> pager = $pager;
+$variable = ';
+    $string_samples = array(
+        ' => ',
+        ' => "Some tests about echoing $variable" // переменная $variable
+	);
+   /*echo $string_samples['].'; $variable
+    echo $string_samples['].'; $variable*/
+  }
+  
